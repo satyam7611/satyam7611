@@ -96,4 +96,124 @@ An AI-powered developer assistant designed to understand and interact with softw
 
 **Tech:** `Python` `FastAPI` `React` `MCP` `LLMs` `Agentic AI`
 
-🔗 **Reposito**
+🔗 **Repository:** [RepoPilot](https://github.com/satyam7611)
+
+---
+
+## 🏆 Smart India Hackathon Project
+
+🥇 **Smart India Hackathon Winner**
+
+Worked as part of a team to develop a real-world technology solution for the Smart India Hackathon.
+
+### Highlights
+
+* 🏆 Selected as a **Smart India Hackathon Winner**
+* 💡 Worked on solving a real-world problem
+* 👨‍💻 Contributed to application development
+* 🤝 Collaborated with a team under hackathon constraints
+* 🚀 Focused on building a practical and scalable solution
+
+---
+
+## 💻 Other Projects
+
+I'm continuously building projects to improve my skills across:
+
+* Full-stack web development
+* Backend APIs
+* AI-powered applications
+* Agentic AI
+* Developer tools
+* Automation
+
+👉 Check out my repositories to explore my latest work.
+
+---
+
+# 🏆 Achievements
+
+| Achievement               | Details                       |
+| ------------------------- | ----------------------------- |
+| 🥇 Smart India Hackathon  | **Winner**                    |
+| 💻 Full Stack Development | MERN Stack                    |
+| 🤖 AI Development         | Agentic AI & LLM Applications |
+| 🔌 MCP                    | MCP Server Development        |
+
+---
+
+# 📚 Currently Learning
+
+```text
+Advanced React
+        ↓
+Backend & API Architecture
+        ↓
+System Design
+        ↓
+Agentic AI
+        ↓
+MCP & AI Tool Integration
+        ↓
+Production-ready AI Applications
+```
+
+I'm particularly interested in understanding how **AI agents can use tools, APIs, repositories and external systems to perform meaningful tasks autonomously**.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam7611&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=satyam7611&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam7611&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/satyam-singh-767b4b2b7/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://github.com/satyam7611" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyam7611&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+<h3 align="center">
+  🚀 Building. Learning. Shipping.
+</h3>
+
+<h4 align="center">
+  ⭐ Thanks for visiting my profile!
+</h4>
