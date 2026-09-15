@@ -145,22 +145,17 @@ I'm continuously building projects to improve my skills across:
 # 📚 Currently Learning
 
 ```text
-Advanced React
-        ↓
 Backend & API Architecture
         ↓
-System Design
+System Design & Scalable Systems
         ↓
-Agentic AI
+Agentic AI & AI Agents
         ↓
 MCP & AI Tool Integration
         ↓
+AI Guardrails & Evaluation
+        ↓
 Production-ready AI Applications
-```
-
-I'm particularly interested in understanding how **AI agents can use tools, APIs, repositories and external systems to perform meaningful tasks autonomously**.
-
----
 
 # 📊 GitHub Stats
 
