@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Satyam Singh</h1>
-<h3 align="center">🚀 MERN Stack Developer | SIH Winner 🏆</h3>
+# 👋 Hi, I'm Satyam Singh
+
+### 🚀 MERN Stack Developer | 🤖 Agentic AI Developer | 🏆 Smart India Hackathon Winner
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satyam-singh-767b4b2b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Satyam%20Singh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/satyam7611" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-satyam7611-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -11,62 +15,85 @@
 
 ## 🚀 About Me
 
-- 🏆 **Smart India Hackathon Winner**
-- 💻 MERN Stack Developer
-- 🌱 Currently learning **Backend & System Design**
-- 🔥 Passionate about building scalable web apps
-- 🎯 Goal: Become a **Top Software Engineer**
+I'm a **Computer Science & Engineering student** and a passionate developer focused on building **full-stack web applications and AI-powered systems**.
+
+* 🏆 **Smart India Hackathon Winner**
+* 💻 MERN Stack Developer
+* 🤖 Interested in **Agentic AI & LLM-powered applications**
+* 🔌 Building AI systems with **MCP (Model Context Protocol)**
+* ⚙️ Experienced in building **REST APIs and backend services**
+* 🌱 Currently strengthening **Backend Development & System Design**
+* 🎯 Goal: Become a strong **Software Engineer** who can build scalable and intelligent applications
+
+I enjoy turning ideas into working products and exploring how **AI agents can interact with real-world applications and developer tools**.
 
 ---
 
-## 🛠️ Languages and Tools
+## 🧠 What I Work With
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,git,github,vscode,html,css,tailwind" />
+### 🌐 Full Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind" />
 </p>
 
+**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**API:** REST APIs
+
 ---
 
-## 📊 GitHub Stats
+### 🤖 AI & Agentic AI
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=satyam7611&show_icons=true&theme=tokyonight"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
+* Large Language Models (LLMs)
+* AI Agents & Agentic Workflows
+* **MCP (Model Context Protocol)**
+* MCP Server Development
+* AI-powered Developer Tools
+* Repository-aware AI systems
+* Prompt Engineering
+* RAG concepts
+* AI application development
+
 ---
 
-## 🔥 GitHub Streak
+### ⚙️ Programming & Tools
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=satyam7611&theme=tokyonight"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,git,github,vscode" />
 </p>
 
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam7611&theme=react-dark"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/satyam-singh-767b4b2b7/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-</p>
+* C++
+* Python
+* JavaScript
+* Git & GitHub
+* VS Code
+* API Development
+* Problem Solving
 
 ---
 
-## 👀 Profile Visitors
+# 🚀 Featured Projects
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=satyam7611&label=Profile%20Views&color=blue&style=flat"/>
-</p>
+## 🤖 RepoPilot — AI Repository Assistant
 
----
+An AI-powered developer assistant designed to understand and interact with software repositories.
 
-⭐️ From [satyam7611](https://github.com/satyam7611)
+### 🔥 Key Highlights
+
+* 🤖 Built an **agentic workflow** for repository analysis
+* 🔌 Developed an **MCP Server** to allow AI agents to interact with repository resources
+* 📂 Repository-aware code understanding
+* 🧠 AI-powered responses based on project context
+* ⚡ Python & FastAPI backend
+* ⚛️ React-based frontend
+* 🔗 API-driven architecture
+
+**Tech:** `Python` `FastAPI` `React` `MCP` `LLMs` `Agentic AI`
+
+🔗 **Reposito**
