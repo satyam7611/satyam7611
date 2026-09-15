@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Satyam Singh
+<h1 align="center">Hi 👋, I'm Satyam Singh</h1>
 
-### 🚀 MERN Stack Developer | 🤖 Agentic AI Developer | 🏆 Smart India Hackathon Winner
+<h3 align="center">🚀 MERN Stack Developer | 🤖 Agentic AI Developer | 🏆 SIH Winner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satyam-singh-767b4b2b7/" target="_blank">
@@ -15,21 +15,21 @@
 
 ## 🚀 About Me
 
-I'm a **Computer Science & Engineering student** and a passionate developer focused on building **full-stack web applications and AI-powered systems**.
+I'm a **Computer Science & Engineering student** passionate about building **full-stack web applications and AI-powered systems**.
 
-* 🏆 **Smart India Hackathon Winner**
-* 💻 MERN Stack Developer
-* 🤖 Interested in **Agentic AI & LLM-powered applications**
-* 🔌 Building AI systems with **MCP (Model Context Protocol)**
-* ⚙️ Experienced in building **REST APIs and backend services**
-* 🌱 Currently strengthening **Backend Development & System Design**
-* 🎯 Goal: Become a strong **Software Engineer** who can build scalable and intelligent applications
+- 🏆 **Smart India Hackathon Winner**
+- 💻 MERN Stack Developer
+- 🤖 Interested in **Agentic AI & LLM-powered applications**
+- 🔌 Building AI systems using **MCP (Model Context Protocol)**
+- ⚙️ Experienced in building **backend services and REST APIs**
+- 🌱 Currently learning **System Design & Scalable Architecture**
+- 🎯 Goal: Become a strong **Software Engineer**
 
-I enjoy turning ideas into working products and exploring how **AI agents can interact with real-world applications and developer tools**.
+I enjoy turning ideas into real-world products and exploring how **AI agents can interact with tools, APIs, repositories, and external systems to perform meaningful tasks autonomously.**
 
 ---
 
-## 🧠 What I Work With
+# 🛠️ Languages & Tools
 
 ### 🌐 Full Stack Development
 
@@ -37,10 +37,10 @@ I enjoy turning ideas into working products and exploring how **AI agents can in
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind" />
 </p>
 
-**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Database:** MongoDB
-**API:** REST APIs
+**Frontend:** React.js, JavaScript, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**APIs:** REST APIs
 
 ---
 
@@ -50,31 +50,32 @@ I enjoy turning ideas into working products and exploring how **AI agents can in
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-* Large Language Models (LLMs)
-* AI Agents & Agentic Workflows
-* **MCP (Model Context Protocol)**
-* MCP Server Development
-* AI-powered Developer Tools
-* Repository-aware AI systems
-* Prompt Engineering
-* RAG concepts
-* AI application development
+- Large Language Models (LLMs)
+- AI Agents & Agentic Workflows
+- **MCP (Model Context Protocol)**
+- MCP Server Development
+- AI-powered Developer Tools
+- Repository-aware AI Systems
+- Prompt Engineering
+- RAG Concepts
+- AI Application Development
 
 ---
 
-### ⚙️ Programming & Tools
+### ⚙️ Programming & Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,js,git,github,vscode" />
 </p>
 
-* C++
-* Python
-* JavaScript
-* Git & GitHub
-* VS Code
-* API Development
-* Problem Solving
+- C++
+- Python
+- JavaScript
+- Git & GitHub
+- VS Code
+- Backend Development
+- API Development
+- Problem Solving
 
 ---
 
@@ -86,17 +87,17 @@ An AI-powered developer assistant designed to understand and interact with softw
 
 ### 🔥 Key Highlights
 
-* 🤖 Built an **agentic workflow** for repository analysis
-* 🔌 Developed an **MCP Server** to allow AI agents to interact with repository resources
-* 📂 Repository-aware code understanding
-* 🧠 AI-powered responses based on project context
-* ⚡ Python & FastAPI backend
-* ⚛️ React-based frontend
-* 🔗 API-driven architecture
+- 🤖 Built an **agentic workflow** for repository analysis
+- 🔌 Developed an **MCP Server** for AI-agent interaction with repository resources
+- 📂 Repository-aware code understanding
+- 🧠 AI-powered responses based on project context
+- ⚡ Built backend services using **Python & FastAPI**
+- ⚛️ Developed a **React-based frontend**
+- 🔗 API-driven architecture
 
-**Tech:** `Python` `FastAPI` `React` `MCP` `LLMs` `Agentic AI`
+**Tech Stack:** `Python` `FastAPI` `React` `MCP` `LLMs` `Agentic AI`
 
-🔗 **Repository:** [RepoPilot](https://github.com/satyam7611)
+🔗 [View Repository](https://github.com/satyam7611)
 
 ---
 
@@ -104,15 +105,15 @@ An AI-powered developer assistant designed to understand and interact with softw
 
 🥇 **Smart India Hackathon Winner**
 
-Worked as part of a team to develop a real-world technology solution for the Smart India Hackathon.
+Worked as part of a team to develop a technology solution for a real-world problem through the **Smart India Hackathon**.
 
 ### Highlights
 
-* 🏆 Selected as a **Smart India Hackathon Winner**
-* 💡 Worked on solving a real-world problem
-* 👨‍💻 Contributed to application development
-* 🤝 Collaborated with a team under hackathon constraints
-* 🚀 Focused on building a practical and scalable solution
+- 🏆 **Smart India Hackathon Winner**
+- 💡 Solved a real-world problem using technology
+- 👨‍💻 Contributed to application development
+- 🤝 Collaborated with a team under hackathon constraints
+- 🚀 Focused on building a practical and scalable solution
 
 ---
 
@@ -120,12 +121,13 @@ Worked as part of a team to develop a real-world technology solution for the Sma
 
 I'm continuously building projects to improve my skills across:
 
-* Full-stack web development
-* Backend APIs
-* AI-powered applications
-* Agentic AI
-* Developer tools
-* Automation
+- 🌐 Full-stack web development
+- ⚙️ Backend APIs
+- 🤖 AI-powered applications
+- 🧠 Agentic AI
+- 🔌 MCP & AI Tool Integration
+- 🛠️ Developer Tools
+- 🚀 Automation
 
 👉 Check out my repositories to explore my latest work.
 
@@ -133,12 +135,12 @@ I'm continuously building projects to improve my skills across:
 
 # 🏆 Achievements
 
-| Achievement               | Details                       |
-| ------------------------- | ----------------------------- |
-| 🥇 Smart India Hackathon  | **Winner**                    |
-| 💻 Full Stack Development | MERN Stack                    |
-| 🤖 AI Development         | Agentic AI & LLM Applications |
-| 🔌 MCP                    | MCP Server Development        |
+| Achievement | Details |
+|---|---|
+| 🥇 Smart India Hackathon | **Winner** |
+| 💻 Full Stack Development | MERN Stack |
+| 🤖 AI Development | Agentic AI & LLM Applications |
+| 🔌 MCP | MCP Server Development |
 
 ---
 
@@ -157,58 +159,20 @@ AI Guardrails & Evaluation
         ↓
 Production-ready AI Applications
 
-# 📊 GitHub Stats
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyam7611&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=satyam7611&theme=tokyonight&hide_border=true" /> </p>
+📈 GitHub Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam7611&theme=react-dark&hide_border=true" /> </p>
+💻 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam7611&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/satyam-singh-767b4b2b7/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="50"/> </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam7611&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+   
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=satyam7611&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam7611&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/satyam-singh-767b4b2b7/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="https://github.com/satyam7611" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyam7611&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
----
-
-<h3 align="center">
-  🚀 Building. Learning. Shipping.
-</h3>
-
-<h4 align="center">
-  ⭐ Thanks for visiting my profile!
-</h4>
+<a href="https://github.com/satyam7611" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="50"/> </a> </p>
+👀 Profile Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=satyam7611&label=Profile%20Views&color=blue&style=flat" /> </p>
+<h3 align="center">🚀 Building. Learning. Shipping.</h3> <h4 align="center">⭐ Thanks for visiting my profile!</h4> ```
