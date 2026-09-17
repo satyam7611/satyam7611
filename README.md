@@ -159,10 +159,10 @@ AI Guardrails & Evaluation
         ↓
 Production-ready AI Applications
 ```
-# 📊 GitHub Activity
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam7611&theme=react-dark&hide_border=true" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 ---
@@ -170,9 +170,8 @@ Production-ready AI Applications
 # 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam7611&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" />
 </p>
-
 # 🌐 Connect With Me
 
 <p align="center">
