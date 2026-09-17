@@ -172,3 +172,29 @@ Production-ready AI Applications
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam7611&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyam-singh-767b4b2b7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/satyam7611" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  </a>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satyam7611&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+<h3 align="center">🚀 Building. Learning. Shipping.</h3>
