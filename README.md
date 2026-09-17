@@ -159,20 +159,5 @@ AI Guardrails & Evaluation
         ↓
 Production-ready AI Applications
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyam7611&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=satyam7611&theme=tokyonight&hide_border=true" /> </p>
-📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam7611&theme=react-dark&hide_border=true" /> </p>
-💻 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam7611&layout=compact&theme=tokyonight&hide_border=true" /> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/satyam-singh-767b4b2b7/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="50"/> </a>
-
    
 
-<a href="https://github.com/satyam7611" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="50"/> </a> </p>
-👀 Profile Visitors
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=satyam7611&label=Profile%20Views&color=blue&style=flat" /> </p>
-<h3 align="center">🚀 Building. Learning. Shipping.</h3> <h4 align="center">⭐ Thanks for visiting my profile!</h4> ```
