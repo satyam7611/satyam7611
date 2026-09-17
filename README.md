@@ -159,8 +159,16 @@ AI Guardrails & Evaluation
         ↓
 Production-ready AI Applications
 ```
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyam7611&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
+# 📊 GitHub Activity
 
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=satyam7611&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam7611&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam7611&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
