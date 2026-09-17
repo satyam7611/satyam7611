@@ -162,3 +162,5 @@ Production-ready AI Applications
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satyam7611&show_icons=true&theme=tokyonight&hide_border=true" /> </p>
 
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=satyam7611&theme=tokyonight&hide_border=true" /> </p>
