@@ -158,6 +158,6 @@ MCP & AI Tool Integration
 AI Guardrails & Evaluation
         ↓
 Production-ready AI Applications
-
+```
    
 
